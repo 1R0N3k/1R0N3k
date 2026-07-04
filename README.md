@@ -2,7 +2,6 @@
 
 > Focused on building flexible, expandable, production-ready systems. <br>
 > Constantly practicing in the development of systems and applications. <br>
-> Actively seeking commercial experience and professional growth.
 
 ---
 
