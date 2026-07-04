@@ -11,43 +11,42 @@
 I'm a **Software Engineer** driven by creating useful, large-scale and scalable systems that operate in networked environments. My focus is on deeply understanding how every component of a system works **end-to-end** and how they **interact**.
 
 - **Currently contributing:** 
-    - SOLIDgear
-    - MisisTube
-- **Currently exploring:** 
-    - multi‑layer architecture (Presentation / Service / Infrastructure)
-    - async patterns
-    - parallel processing
-    - C
-    - RUST 🦀
-- **Comfortable with:** 
-    - legacy codebases
+    - [MisisTube](https://github.com/OtradinskiyIvan/misistube)
+    - SOLIDgear (private)
+- **Experience working with:** 
     - team workflows (GitHub flow, Git flow)
-    - CI/CD pipelines.  
-- **Looking for:** my first commercial experience — I want to contribute to a real product, learn from experienced engineers, and grow into an independent developer.
+    - CI/CD pipelines
+- **Looking for:** my first commercial experience - I want to contribute to a real product, learn from experienced engineers, and grow into an independent developer.
+
+---
+
+## 🎯 Current focus
+- Multi‑layer architectures (Presentation / Service / Infrastructure)
+- Async & parallel processing patterns
+- Deepening C and RUST 🦀
 
 ---
 
 ## 🧠 What drives me
 
-- **Understanding** how large-scale, scalable networked systems work on a deep level. I enjoy studying every component and how they connect **end-to-end**
-- Working with **databases** (PostgreSQL, SQLite, SQL Server) via ORMs and raw SQL  
-- Writing **tests** and automating workflows (pytest, GitHub Actions)  
-- Learning more about how **teams** actually build and maintain software in production and how to manage teams to achive development goals
+- **Deep-diving** into how every component of a distributed system works end-to-end
+- **Understanding** how teams ship and maintain software in production
+- **Clean architecture** that scales **without pain**
 
 ---
 
 <div align="center">
   
 ### **💻 Languages**
-[![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge)](https://isocpp.org/)
+[![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus)](https://isocpp.org/)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Transact-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://docs.microsoft.com/en-us/sql/t-sql/)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 
 </div>
 
@@ -69,9 +68,9 @@ I'm a **Software Engineer** driven by creating useful, large-scale and scalable 
 ### **🗄️ Databases**
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://learn.microsoft.com/ru-ru/sql/?view=sql-server-ver17)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
+[![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://learn.microsoft.com/en-us/sql/?view=sql-server-ver17)
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 
 </div>
 
@@ -84,9 +83,6 @@ I'm a **Software Engineer** driven by creating useful, large-scale and scalable 
 [![CI/CD](https://img.shields.io/badge/CI/CD-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/ci-cd)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 [![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)
-[![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=api&logoColor=white)](https://restfulapi.net/)
-[![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)](https://www.phpmyadmin.net/)
-[![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 [![MinIO](https://img.shields.io/badge/MinIO-%23c72e49?style=for-the-badge&logo=minio)](https://www.min.io)
 
 </div>
