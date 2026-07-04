@@ -1,16 +1,105 @@
-## Hi there 👋
+# 🚀 Software Engineer | Kirill Bestugev
+
+> Focused on building flexible, expandable, production-ready systems. <br>
+> Constantly practicing in the development of systems and applications. <br>
+> Actively seeking commercial experience and professional growth.
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Software Engineer** driven by creating useful, large-scale and scalable systems that operate in networked environments. My focus is on deeply understanding how every component of a system works **end-to-end** and how they **interact**.
+
+- **Currently contributing:** 
+    - SOLIDgear
+    - MisisTube
+- **Currently exploring:** 
+    - multi‑layer architecture (Presentation / Service / Infrastructure)
+    - async patterns
+    - parallel processing
+    - C
+    - RUST 🦀
+- **Comfortable with:** 
+    - legacy codebases
+    - team workflows (GitHub flow, Git flow)
+    - CI/CD pipelines.  
+- **Looking for:** my first commercial experience — I want to contribute to a real product, learn from experienced engineers, and grow into an independent developer.
+
+---
+
+## 🧠 What drives me
+
+- **Understanding** how large-scale, scalable networked systems work on a deep level. I enjoy studying every component and how they connect **end-to-end**
+- Working with **databases** (PostgreSQL, SQLite, SQL Server) via ORMs and raw SQL  
+- Writing **tests** and automating workflows (pytest, GitHub Actions)  
+- Learning more about how **teams** actually build and maintain software in production and how to manage teams to achive development goals
+
+---
+
+<div align="center">
+  
+### **💻 Languages**
+[![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge)](https://isocpp.org/)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Transact-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://docs.microsoft.com/en-us/sql/t-sql/)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+
+</div>
+
+<div align="center">
+  
+### **🚀 Frameworks & Libraries**
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)](https://docs.pydantic.dev/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)](https://docs.pytest.org/)
+
+</div>
+
+<div align="center">
+  
+### **🗄️ Databases**
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://learn.microsoft.com/ru-ru/sql/?view=sql-server-ver17)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+
+</div>
+
+<div align="center">
+  
+### **🛠️ Tools & Platforms**
+
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![CI/CD](https://img.shields.io/badge/CI/CD-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/ci-cd)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)
+[![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=api&logoColor=white)](https://restfulapi.net/)
+[![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)](https://www.phpmyadmin.net/)
+[![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+[![MinIO](https://img.shields.io/badge/MinIO-%23c72e49?style=for-the-badge&logo=minio)](https://www.min.io)
+
+</div>
+
+---
+
+## 📫 Let’s connect
+
+- Telegram: [@cyberchumbaby](https://t.me/cyberchumbaby)  
+- Email: [kirillbestugev@gmail.com](mailto:kirillbestugev@gmail.com)
+
+---
 
 <!--
-**1R0N3k/1R0N3k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I keep my tech stack updated as I learn.  
 -->
