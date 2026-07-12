@@ -1,4 +1,4 @@
-# 🚀 Software Engineer | Kirill Bestugev
+# 🚀 Software Engineer | Kirill Bazlov
 
 > Focused on building flexible, expandable, production-ready systems. <br>
 > Constantly practicing in the development of systems and applications. <br>
